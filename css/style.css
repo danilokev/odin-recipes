@@ -1,0 +1,49 @@
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+  background-color: #cc0000;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  width: 50%;
+  margin-left: 400px;
+}
+
+h2 {
+  color: #38761d;
+  font-size: 28px;
+}
+
+#ingredients-style {
+  background-color: #38761d;
+  color: #ffffff;
+  width: 170px;
+}
+
+.proce-style {
+  font-size: 18px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.main-text {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.ul-style,
+.second-text {
+  font-size: 18px;
+}
+
+.ul-style li {
+  color: #783f04;
+}
+
+.second-text {
+  color: tomato;
+  font-weight: 600;
+}
